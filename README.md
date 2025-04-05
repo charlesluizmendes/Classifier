@@ -30,7 +30,8 @@ Para executar o notebook [processing.ipynb](https://github.com/charlesluizmendes
 - Menu 'Arquivo'
 - Clicar em 'Fazer upload do notebook'
 - Clicar em no Menu Lateral 'Arquivos'
-- Clicar em 'Fazer upload para armazenamento da sessão'
+- Criar uma pasta '/data'
+- Dentro da pasta criada acima clicar em 'Upload'
 - Menu 'Ambiente de execução'
 - Clicar em 'Executar tudo'
 
