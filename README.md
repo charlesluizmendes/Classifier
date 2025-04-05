@@ -25,10 +25,12 @@ $ pip install torch torchvision torchaudio --index-url https://download.pytorch.
 
 ## Execução do Notebook
 
-Para executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/Classifier/blob/main/processing.ipynb) no Google Colab basta seguir os passos abaixo:
+Para executar o notebook [processing.ipynb](https://github.com/charlesluizmendes/Classifier/blob/main/processing.ipynb) no Google Colab basta baixar o [IMDB Dataset.csv](https://github.com/charlesluizmendes/Classifier/blob/main/data/IMDB%20Dataset.csv) e seguir os passos abaixo:
 
 - Menu 'Arquivo'
 - Clicar em 'Fazer upload do notebook'
+- Clicar em no Menu Lateral 'Arquivos'
+- Clicar em 'Fazer upload para armazenamento da sessão'
 - Menu 'Ambiente de execução'
 - Clicar em 'Executar tudo'
 
